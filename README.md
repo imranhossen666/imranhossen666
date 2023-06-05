@@ -1,4 +1,4 @@
-![Web Designer and Developer]([https://i.postimg.cc/rmjNDrvQ/github.jpg])
+
 
 # Hi there 👋, I am Imran Hoseen
 #### Web Designer and Developer
