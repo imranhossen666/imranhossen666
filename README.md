@@ -1,4 +1,4 @@
-![Web Designer and Developer](https://images.pexels.com/photos/2548493/pexels-photo-2548493.jpeg?auto=compress&cs=tinysrgb&w=600)
+![Web Designer and Developer]([https://i.postimg.cc/rmjNDrvQ/github.jpg])
 
 # Hi there 👋, I am Imran Hoseen
 #### Web Designer and Developer
